@@ -15,14 +15,6 @@
 
 
 
-<div class="example">
-  <div class="col-lg-4">
-    <div class="input-group">
-      <span class="input-group-btn">
-      </span>
-      <input type="text" class="form-control" placeholder="Search for...">
-    </div><!-- /input-group -->
-
   
     <div class="input-group">
       <input type="text" class="form-control" placeholder="Search for...">
